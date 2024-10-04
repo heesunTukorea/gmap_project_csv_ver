@@ -1,17 +1,21 @@
 
 
+
+
 folium==0.17.0
 
 
-#matplotlib==3.3.4
 
 
-pandas==1.5.2
+
+numpy==2.0.2
 
 
-pydeck==0.8.0
+
+
 
 streamlit==1.38.0
 streamlit-drawable-canvas==0.5.1
 streamlit-quill==0.0.3
 streamlit_folium==0.22.0
+
