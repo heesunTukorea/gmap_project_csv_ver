@@ -11,21 +11,7 @@ pandas==1.5.2
 
 pydeck==0.8.0
 
-<<<<<<< HEAD
 streamlit==1.38.0
 streamlit-drawable-canvas==0.5.1
 streamlit-quill==0.0.3
 streamlit_folium==0.22.0
-=======
-# 선택적 패키지 (필요 시 주석 해제)
-#seaborn==0.12.2
-folium==0.17.0
-#openai==1.44.1
-#langchain==0.3.0
-#langchain-community==0.3.0
-#langchain-openai==0.2.0
-#pyarrow==10.0.1
-#tornado==6.2
-#boto3==1.34.103
-#aiohttp==3.10.5
->>>>>>> cb173b6f7f9102647da003e561a362df0781344f
