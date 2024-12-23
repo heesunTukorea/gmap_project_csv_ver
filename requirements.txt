@@ -13,7 +13,7 @@ numpy==2.0.2
 
 
 
-
+python-dotenv==1.0.1
 streamlit==1.38.0
 streamlit-drawable-canvas==0.5.1
 streamlit-quill==0.0.3
