@@ -17,7 +17,7 @@ from langchain.retrievers.multi_query import MultiQueryRetriever
 
 
 import os
-os.environ["OPENAI_API_KEY"]="sk-svcacct-zmV4n7IGd8VMdc7_hX9WcwOedVIzkbI_hmuRzmiaJ59Pph7xf5SCn3YAtFk3Ly4v3cItlnCr3T3BlbkFJ9yJ39HTd1u__WN02JN9c9sGN-ONU_htslf8ExXKBxqRfsLwq3hLqdtXl-qkaJUGNZtgHcDlxQA"
+os.environ["OPENAI_API_KEY"]=""
 
 
 ## meta chain, reveiw chain 
