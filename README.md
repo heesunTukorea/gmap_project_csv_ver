@@ -23,7 +23,9 @@ Google Maps **리뷰/메타데이터**를 활용해
 ## 핵심 기능
 - **Item 기반 추천**
   - Co-review(공동 리뷰) 기반 후보 생성
-  - GBDT/Hybrid(리뷰 텍스트 유사도 feature 결합)로 랭킹
+  - Embedding을 통한 리뷰 텍스트 유사도 기반 추천
+  - GBDT모델을 활용한 Co-review를 종속변수로한 분류 기반 추천
+  - GBDT/Hybrid(리뷰 텍스트 유사도 feature 결합)모델을 활용한 추천
 - **User 기반 추천**
   - ALS / FM 기반 개인화 추천
 - **RAG 챗봇**
