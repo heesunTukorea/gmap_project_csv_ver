@@ -2,6 +2,7 @@
 
 Google Maps **리뷰/메타데이터**를 활용해  
 **Item 기반 추천 + User 기반 추천 + RAG 챗봇**을 결합한 **장소 추천 프로토타입(Streamlit)** 입니다.
+<img width="625" height="350" alt="image" src="https://github.com/user-attachments/assets/df556f45-cb0b-4cdb-80c0-88ea0bdf3b55" />
 
 ---
 
